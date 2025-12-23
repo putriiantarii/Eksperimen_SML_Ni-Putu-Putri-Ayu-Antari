@@ -1,4 +1,4 @@
-# Eksperimen_MSL_Ni-Putu-Putri-Ayu-Antari
+# Eksperimen_SML_Ni-Putu-Putri-Ayu-Antari
 
 Repository ini berisi eksperimen dataset, preprocessing, dan model machine learning untuk submission SMSML.
 
